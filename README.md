@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mohammad Yihya 👋
 
-<!--
-**MohammadYihya/MohammadYihya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Cybersecurity Student
+- 🌐 Learning Networking & Cybersecurity
+- 🇨🇳 Future International Student in China
+- 📚 Currently studying Chinese
+- 🚀 Building my cybersecurity portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Current Goals
+
+- ✅ Improve my Networking skills
+- ✅ Build Cybersecurity projects
+- ✅ Earn professional certifications
+- ✅ Study in China on a scholarship
+
+---
+
+## 📂 Current Projects
+
+Coming soon...
