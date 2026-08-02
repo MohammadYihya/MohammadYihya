@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Yihya 👋
+# Hi, I'm Mohammad Yehya 👋
 
 ## 👨‍💻 About Me
 
